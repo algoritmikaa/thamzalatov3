@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: darkblue;
+    border: 5px solid darkblue;
+    padding: 5px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+header a {
+    color: white;
+    background-color: darkblue;
+    padding: 4px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(189, 62, 189);
+}
+
+footer p {
+    border: 3px solid grey;
+    padding: 4px;
+}
+
+nav a {
+    color: white;
+    background-color: darkblue;
+    padding: 4px;
+    border-radius: 7px;
+    text-decoration: none;
+    margin:50px;
+}
+
+.tur {
+    background-color: white;
+    color: darkblue;
+    border: 3px solid darkblue;
+
+}
+
+.turp {
+    background-color: palegreen;
+    padding:10px;
+}
+
+h2 {
+    color: blue;
+}
